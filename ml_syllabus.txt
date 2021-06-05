@@ -1,0 +1,44 @@
+AI vs ML vs DL vs DS
+numpy,panadas,matplotlib,seaborn,sklearn
+preprocessing
+
+-----------------------------------------------
+ML :-
+1.Supervised Learning : e.g: cortana,google assitant,weather app
+
+	a.classification:
+			i.   K-nearest Neighbour
+			ii.  Decision Tree
+			iii. Logistic Regression
+			iv.  Naive Bayes
+			v.   Support Vector Machine
+			vi.  Random Forest
+
+	b.Regression:
+			i.   Linear Regression
+			ii.  Polynomial Regression
+			iii. Ridge Regression
+			iv.  Lasso Regression
+			v.   Elastic Net Regression
+
+	** both :	Random Forest , Decision Tree,SVM , XgBoost
+
+2.UnSupervised Learning:
+
+	a.Association:
+		i.  Apriori
+		ii. Eclat
+		iii.F.P Growth
+	b.clustering:
+		i. K-means Clustreing
+		ii. Mean-Shift clustering
+		iii.Aggolomerative Hirerachical clustering
+		iv.EM clustreing
+		v.Hirearchical clustering
+
+Deep Learning  :  ANN,CNN,RNN(advance)
+
+3.Reinforcement Learning:(advance level)
+
+---------------------------------------------------
+
